@@ -25,13 +25,13 @@ I'm a passionate **Fitness Coach & Junior Frontend Developer** currently learnin
 
 ### [My Portfolio Website](https://sites.google.com/view/ashford-williams/home?authuser=0)
 
-![Portfolio Screenshot](https://via.placeholder.com/600x300?text=Portfolio+Preview)
+
 
 This is my **personal portfolio website** built using Google Forms. It showcases my journey, fitness coaching background, and growing skills in frontend development.
 
 ### [TechMed Innovators](https://docs.google.com/presentation/d/1Nd5TnuZCtDMTKyVQPmoXHHhu3E-MtCMp/edit?slide=id.p1#slide=id.p1)
 
-![TechMed Innovators Screenshot](https://via.placeholder.com/600x300?text=TechMed+Innovators)
+
 
 **TechMed Innovators** is a health-tech concept presentation developed as part of a collaborative innovation challenge. It focuses on **leveraging technology to improve medical diagnostics and care in underserved communities**. View the project [here](https://docs.google.com/presentation/d/1Nd5TnuZCtDMTKyVQPmoXHHhu3E-MtCMp/edit?slide=id.p1#slide=id.p1).
 
