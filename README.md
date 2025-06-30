@@ -1,7 +1,7 @@
 
 # Hi there, I'm Ashford Williams! 👋
 
-![Fitness & Code Banner](your_banner_image_url_here)
+![Fitness & Code Banner] (https://imgur.com/a/yBakM9F)
 
 ## About Me 🚀
 
@@ -9,8 +9,7 @@ I'm a passionate **Fitness Coach & Junior Frontend Developer** currently learnin
 
 - 🌱 Currently learning: **HTML, CSS, JavaScript, React**
 - 🔭 Working on: **My personal portfolio & improving UI design skills**
-- 🌍 Languages: **JavaScript, English, Twi**
-- 📫 How to reach me: **ashford.fitness.dev@gmail.com**
+- 📫 How to reach me: **ashfordwillz@gmail.com**
 - ⚡ Fun fact: **I can code and do push-ups during breaks 💪🏾💻**
 
 ## My Skills 🧠
@@ -28,7 +27,7 @@ I'm a passionate **Fitness Coach & Junior Frontend Developer** currently learnin
 
 ![Portfolio Screenshot](https://via.placeholder.com/600x300?text=Portfolio+Preview)
 
-This is my **personal portfolio website** built using **HTML, CSS, and a bit of JavaScript**. It showcases my journey, fitness coaching background, and growing skills in frontend development.
+This is my **personal portfolio website** built using Google Forms. It showcases my journey, fitness coaching background, and growing skills in frontend development.
 
 ### [TechMed Innovators](https://docs.google.com/presentation/d/1Nd5TnuZCtDMTKyVQPmoXHHhu3E-MtCMp/edit?slide=id.p1#slide=id.p1)
 
