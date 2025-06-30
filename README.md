@@ -1,7 +1,7 @@
 
 # Hi there, I'm Ashford Williams! 👋
 
-![Fitness & Code Banner] (https://imgur.com/a/yBakM9F)
+ (https://imgur.com/a/yBakM9F)
 
 ## About Me 🚀
 
