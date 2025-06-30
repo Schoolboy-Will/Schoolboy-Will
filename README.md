@@ -1,7 +1,7 @@
 
 # Hi there, I'm Ashford Williams! 👋
 
- (https://imgur.com/a/yBakM9F)
+ 
 
 ## About Me 🚀
 
