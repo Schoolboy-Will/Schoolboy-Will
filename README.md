@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Fitness Coach & Junior Frontend Developer** currently learning through the **ALX program**. I bring the same discipline and consistency from coaching into my coding journey. I enjoy building clean, user-friendly websites and helping others level up — whether it’s through fitness or tech.
+I'm a passionate **Fitness Coach & Junior Frontend Developer** currently learning through the **ALX program**. I bring the same discipline and consistency from coaching into my coding journey. I enjoy building clean, user-friendly websites and helping others level up whether it’s through fitness or tech.
 
 - 🌱 Currently learning: **HTML, CSS, JavaScript, React**
 - 🔭 Working on: **My personal portfolio & improving UI design skills**
